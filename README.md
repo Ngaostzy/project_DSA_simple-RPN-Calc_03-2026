@@ -15,7 +15,7 @@ The calculator supports basic arithmetic operations and follows a clear multi-st
 
 ## Features
 
-- Supports basic arithmetic operations: `+`, `-`, `*`, `/`, `^`
+- Supports basic arithmetic operations: `+`, `-`, `*`, `/`, `^`, `()`
 - Handles parentheses correctly
 - Supports integer and floating-point numbers
 - Converts infix expressions to postfix (RPN) using the Shunting Yard algorithm
