@@ -37,7 +37,7 @@ def main():
             print(f"[2] RPN Output   : {rpn}")
 
             result = evaluate_rpn(rpn)
-            print(f"[3] Result       : {result}")
+            print(f"[3] Result       : {result:.6f}")
 
             print("-" * 60 + "\n")
 
